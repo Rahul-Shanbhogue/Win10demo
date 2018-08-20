@@ -13,3 +13,7 @@ By forking someone else's repo, you get a copy to which you have write access, i
 9. Bob merges your pull request; your work gets integrated into his GitHub repo.
 10. Champagne! Your work was not in vain.
 11. To save space on GitHub servers, and if you don't intend to contribute to Bob's repo any time soon, you can safely delete your fork.
+
+
+Happy Forking!!
+Cheers
