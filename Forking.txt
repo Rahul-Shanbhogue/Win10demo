@@ -1,0 +1,15 @@
+From the Github documentation:  A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+
+By forking someone else's repo, you get a copy to which you have write access, i.e. to which you can push your contributions. The entire workflow goes something like this:
+1. Identify an area in Bob's repo that can be improved.
+2. Fork that repo.
+3.Make a clone of your fork on your local machine.
+4. In that clone, make changes, run tests, create commits (possibly on a new branch), etc.
+5. Optionally, once you're happy with your amendments to Bob's code, make your work more presentable: tidy/squash your commits, write good commit messages that respect the style of Bob's repo. You may also want to rebase your branch to that of Bob's repo.
+6. Push to your fork.
+7. Issue a pull request to Bob, and wait for him to review it.
+8. Push more commits to your fork until Bob is satisfied with your work.
+9. Bob merges your pull request; your work gets integrated into his GitHub repo.
+10. Champagne! Your work was not in vain.
+11. To save space on GitHub servers, and if you don't intend to contribute to Bob's repo any time soon, you can safely delete your fork.
