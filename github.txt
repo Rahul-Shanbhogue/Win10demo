@@ -3,3 +3,4 @@ Learning how to use github
 1. Signup to github
 2. Creating a new repositry
 3. Version Control
+4. Merging a branch
