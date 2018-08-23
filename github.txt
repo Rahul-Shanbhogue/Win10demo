@@ -4,3 +4,6 @@ Learning how to use github
 2. Creating a new repositry
 3. Version Control
 4. Creating a Branch
+5. Merging a branch
+
+Conflicts resolved.
